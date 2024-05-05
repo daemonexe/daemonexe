@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ℹ️ About Me:
 As a pioneering technology enthusiast deeply passionate about programming, I engage in various innovative projects within the information technology industry.
 
 # 💻 Tech Stack:
