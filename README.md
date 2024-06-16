@@ -1,6 +1,9 @@
 
 # ℹ️ About Me:
-As a pioneering technology enthusiast deeply passionate about programming, I make hobby projects aspiring software developer
+- Hi, 👋 I'm Thanujan
+- As a pioneering technology enthusiast deeply passionate about programming, I make hobby projects aspiring software developer
+- Currently learning LLMS 
+- Contact me @ k.thanujan.cs@gmail.com
 
 # 💻 Tech Stack:
 
