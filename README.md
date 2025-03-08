@@ -1,9 +1,3 @@
-<h2 align="center">Hey, I'm Thanujan</h2>
-
-###
-
-<h2 align="left">About me</h2>
-
 ###
 
 <h6 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.</h6>
