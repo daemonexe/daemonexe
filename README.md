@@ -2,24 +2,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-</div>
+<p align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.<br><br>I am also an excellent graphics designer</p>
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.<br><br>I am also an excellent graphics designer</h4>
-
-###
-
-<h2 align="left">I mostly work with</h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
@@ -81,6 +68,19 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=daemonexe&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 </div>
 
 ###
