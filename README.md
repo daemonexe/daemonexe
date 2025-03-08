@@ -1,21 +1,17 @@
+<h2 align="center">Hey, I'm Thanujan</h2>
 
-# ℹ️ About Me:
-- Hi, 👋 I'm Thanujan
-- As a pioneering technology enthusiast deeply passionate about programming, I make hobby projects aspiring software developer
-- Currently learning LLMS 
-- Contact me @ k.thanujan.cs@gmail.com
+###
 
-# 💻 Tech Stack:
+<h2 align="left">About me</h2>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+###
 
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=daemonexe&theme=dark&hide_border=false)<br/>
+<h6 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.</h6>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=daemonexe&icon=2&color=12)](https://visitcount.itsvg.in)
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
