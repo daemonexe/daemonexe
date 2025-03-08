@@ -1,7 +1,27 @@
+<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRia3dydmd1cHQ3M3h5cGoybnpraWR6OHBtaHF4N2VpYjN0NDM3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dIwIphLj8h10A/giphy.gif"  />
+
+###
+
+<p align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thanujan18/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:k.thanujan.cs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
-<h2 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.</h2>
+<p align="left">Languages</p>
 
+###
 ###
 
 <div align="center">
