@@ -1,4 +1,4 @@
-<h2 align="left"></h2>
+<h2 align="left">Hello....</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.<br><br>I am also an excellent graphics designer</h3>
+<h4 align="left">Aspiring Full-Stack Software Engineer with a strong foundation in software engineering, system design, UI/UX, web development, and mobile app development.<br><br>I am also an excellent graphics designer</h4>
 
 ###
 
@@ -76,5 +76,11 @@
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=daemonexe&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
